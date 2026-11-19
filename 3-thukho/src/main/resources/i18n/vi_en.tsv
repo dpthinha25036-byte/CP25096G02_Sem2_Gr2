@@ -1,0 +1,991 @@
+# Vietnamese<TAB>English. Keys are trimmed; longer keys win over shorter ones. Add new strings here.
+(người nhận:	(recipient:
+bản ghi chấm công chưa hợp lệ.	attendance record(s) are invalid.
+bản ghi chấm công chưa hợp lệ/cần cảnh báo. Hãy xử lý trước khi tính lương.	attendance record(s) are invalid or need attention. Resolve them before calculating payroll.
+bản ghi	record(s)
+bản ghi. Trạng thái đã được cập nhật.	record(s). Status has been updated.
+chỉ còn	only
+công trình do chính mình thêm.	worksites you created yourself.
+của	of
+của kỹ năng	of skill
+không được để trống.	must not be empty.
+ký tự.	characters.
+lớn hơn tiền công mới.	is greater than the new wage.
+ngày	day(s)
+người	person(s)
+phải có ít nhất	must have at least
+phải là số nguyên dương.	must be a positive integer.
+phải đúng dạng dd/MM/yyyy (ví dụ 25/12/2026).	must be in dd/MM/yyyy format (e.g. 25/12/2026).
+tài khoản "	account "
+tại	at
+tối đa	at most
+và cập nhật tồn kho.	and stock updated.
+đến	to
+ở đầu bảng (không đánh số dòng	at the top of the table (rows not numbered
+(tự sinh khi lưu)	(auto-generated on save)
+, không thể xóa.	, cannot be deleted.
+, yêu cầu xuất	, requested issue
+10 bản ghi	10 records
+20 bản ghi	20 records
+50 bản ghi	50 records
+Chưa có đơn giá ca thường hiệu lực tại ngày làm việc	No regular-shift rate in effect on the work date
+Chưa có đơn giá ca thường	No regular-shift rate
+Chưa có đơn giá tăng ca hiệu lực tại ngày làm việc	No overtime rate in effect on the work date
+Chưa có đơn giá tăng ca	No overtime rate
+đặt lại mật khẩu	reset password
+Phiếu	Slip
+Hệ thống quản lý nhân công<br>công trình	Construction Labor<br>Management System
+Quản Lý Nhân Công<br>Xây Dựng	Construction Labor<br>Management
+BÁO CÁO NHÂN LỰC THEO	WORKFORCE REPORT BY
+BÁO CÁO THIẾU HỤT NHÂN LỰC THEO CÔNG TRÌNH	MANPOWER SHORTAGE REPORT BY WORKSITE
+Báo cáo chi phí / thu nhập	Cost / income report
+Báo cáo chi phí	Cost report
+Báo cáo chấm công theo công trình	Attendance report by worksite
+Báo cáo nhân lực	Workforce report
+Báo cáo nhập kho	Goods receipt report
+Báo cáo thanh toán	Payment report
+Báo cáo theo công trình	Report by worksite
+Báo cáo thu hồi thiết bị	Equipment return report
+Báo cáo tiền lương	Payroll report
+Báo cáo tuần / công trình	Weekly / worksite report
+Báo cáo tình hình thanh toán lương	Salary payment status report
+Báo cáo tồn kho	Inventory report
+Báo cáo tồn kho, lịch sử giao dịch	Inventory report, transaction history
+Báo cáo tổng hợp nhân lực	Workforce summary report
+Báo cáo xuất thiết bị	Equipment issue report
+Báo cáo	Report
+Bạn chỉ được	You may only
+Bạn chỉ được sửa công trình do chính mình thêm.	You can only edit worksites you created yourself.
+Bạn chỉ được xóa công trình do chính mình thêm.	You can only delete worksites you created yourself.
+Bạn có chắc muốn	Are you sure you want to
+Bạn có chắc muốn thoát ứng dụng?	Are you sure you want to exit the application?
+Bạn có chắc muốn đăng xuất?	Are you sure you want to log out?
+Bạn không có quyền quản lý tài khoản và phân quyền.	You do not have permission to manage accounts and permissions.
+Bảng lương chưa trả đủ	Payroll not fully paid
+Bảng lương theo tình trạng thanh toán	Payroll by payment status
+Bảng	Table
+Bảo trì	Maintenance
+Bậc hiện có	Existing levels
+Bậc thợ không thuộc kỹ năng đã chọn.	The skill level does not belong to the selected skill.
+Bậc thợ tối thiểu	Minimum skill level
+Bậc thợ đang được dùng (gán cho công nhân / đơn giá / nhu cầu nhân lực), không thể xóa.	This skill level is in use (assigned to workers / rates / manpower demand) and cannot be deleted.
+Bậc thợ	Skill level
+Bậc tối thiểu	Min. level
+Bậc	Level
+Bắt đầu dự kiến	Planned start
+Bắt đầu thực tế	Actual start
+Bắt đầu	Start
+Bị khóa	Locked
+Bỏ kỹ năng	Remove skill
+CHẤM CÔNG	ATTENDANCE
+Ca thường	Regular shift
+Ca tăng ca	Overtime shift
+Chi phí nhân công theo công trình	Labor cost by worksite
+Chi phí theo công trình	Cost by worksite
+Chi tiết tiền công	Wage details
+Chi tiết	Details
+Cho phép	Allow
+Chuyển khoản	Bank transfer
+Chuẩn bị	Preparing
+Chưa chọn công trình.	No worksite selected.
+Chưa chọn khoảng thời gian.	No time range selected.
+Chưa chọn ngày bắt đầu kỳ lương.	Payroll period start date not selected.
+Chưa chọn ngày nhập.	Receipt date not selected.
+Chưa chọn ngày thanh toán.	Payment date not selected.
+Chưa chọn ngày thu hồi.	Return date not selected.
+Chưa chọn ngày xuất.	Issue date not selected.
+Chưa chọn thiết bị hoặc vị trí.	No equipment or location selected.
+Chưa có công nhân đang làm việc để phân công.	There are no active workers to assign.
+Chưa có công trình nào ở trạng thái "Đang thi công".	No worksite is currently "In progress".
+Chưa có dữ liệu để xuất. Hãy bấm "Xem báo cáo" trước.	No data to export. Click "View report" first.
+Chưa có dữ liệu để xuất.	No data to export.
+Chưa có dữ liệu	No data yet
+Chưa có loại công nhân trong CSDL (bảng worker_types).	No worker types in the database (table worker_types).
+Chưa có vai trò trong CSDL (bảng roles).	No roles in the database (table roles).
+Chưa có yêu cầu mở khóa.	There are no unlock requests.
+Chưa có	None yet
+Chưa gán	Not assigned
+Chưa thanh toán	Unpaid
+Chưa trả	Unpaid
+Chưa tạo bảng lương dự kiến.	Draft payroll has not been created.
+Chấm công & kiểm tra	Attendance & verification
+Chấm công & lương	Attendance & payroll
+Chấm công hôm nay theo kiểm tra	Today's attendance by validation
+Chấm công hôm nay	Today's attendance
+Chấm công hằng ngày	Daily attendance
+Chỉ hủy được phân công đang hoạt động.	Only active assignments can be cancelled.
+Chỉ kết thúc được phân công đang hoạt động.	Only active assignments can be finished.
+Chỉ phân công vào công trình đang thi công.	Workers can only be assigned to worksites in progress.
+Chỉ phân công được công nhân đang làm việc.	Only active workers can be assigned.
+Chỉ sửa được phân công đang hoạt động.	Only active assignments can be edited.
+Chỉ thanh toán bảng lương của kỳ đã chốt.	Only payroll of closed periods can be paid.
+Chỉ yêu cầu mở khóa kỳ đã chốt.	Unlock can only be requested for closed periods.
+Chỉ điều chỉnh tồn tại vị trí trong kho. Hãy chọn một dòng ở kho.	Stock can only be adjusted at a warehouse location. Select a warehouse row.
+Chọn báo cáo chấm công	Select attendance report
+Chọn loại báo cáo	Select report type
+Chọn ngày	Select date
+Chọn yêu cầu cần phê duyệt	Select the request to approve
+Chốt & khóa kỳ	Close & lock period
+Chốt bảng lương và khóa dữ liệu chấm công từ	Close payroll and lock attendance data from
+Chốt bảng lương, khóa sổ	Close payroll, lock period
+Chủ đầu tư tối đa 150 ký tự.	Investor: at most 150 characters.
+Chủ đầu tư	Investor
+Chức năng này chưa có mã nguồn trong 3 project được ghép; bảng dữ liệu tương ứng đã có sẵn trong CSDL (Form 06).	This feature has no source code in the 3 merged projects; the corresponding tables already exist in the database (Form 06).
+Chức năng	Function
+Chức vụ người nhận	Recipient position
+Chức vụ người trả	Payer position
+CÔNG TRÌNH	WORKSITES
+Các bậc thợ của từng kỹ năng	Skill levels of each skill
+Các lần thay đổi đơn giá theo ca	Shift rate changes
+Còn	Remaining
+Còn lại	Remaining
+Còn nợ	Outstanding
+Còn phải trả	Balance due
+Có	Yes
+Công nhân (nếu cần)	Worker (optional)
+Công nhân chưa được phân công vào công trình trong ngày này	Worker is not assigned to the worksite on this day
+Công nhân có thu nhập cao nhất	Highest-earning worker
+Công nhân có thu nhập thấp nhất	Lowest-earning worker
+Công nhân không có kỹ năng/bậc thợ phù hợp với nhu cầu của công trình trong thời gian phân công.	The worker has no skill/level matching the worksite's demand during the assignment period.
+Công nhân không đáp ứng kỹ năng/bậc thợ yêu cầu của công trình.	The worker does not meet the worksite's required skill/level.
+Công nhân theo kỹ năng	Workers by skill
+Công nhân theo trạng thái	Workers by status
+Công nhân đang phân công theo công trình	Assigned workers by worksite
+Công nhân đang phân công	Assigned workers
+Công nhân đang tạm nghỉ	Workers on leave
+Công nhân đã có chấm công trong ngày này.	The worker already has attendance on this day.
+Công nhân đã có phân công / chấm công / lương, không thể xóa.	The worker has assignments / attendance / payroll and cannot be deleted.
+Công nhân đã có phân công trùng khoảng thời gian này.	The worker already has an overlapping assignment in this period.
+Công nhân đã nghỉ việc	Resigned workers
+Công nhân	Worker
+Công trình (nếu cần)	Worksite (optional)
+Công trình / Nguồn	Worksite / Source
+Công trình nhận	Receiving worksite
+Công trình theo trạng thái	Worksites by status
+Công trình trả	Returning worksite
+Công trình đã có	The worksite already has
+Công trình:	Worksite:
+Công trình	Worksite
+Cảnh báo nhân lực	Manpower alerts
+Cảnh báo	Alert
+Cần bảo trì	Needs maintenance
+Cần có công nhân đang làm việc và ít nhất một kỹ năng trước khi gán.	At least one active worker and one skill are required before assigning.
+Cần có công trình và kỹ năng trước khi lập nhu cầu.	A worksite and a skill are required before creating demand.
+Cần có ít nhất một loại thiết bị và một kho trước khi thêm thiết bị.	At least one equipment type and one warehouse are required before adding equipment.
+Cần sửa / hỏng	Needs repair / broken
+Cần sửa chữa	Needs repair
+Cần	Required
+Cập nhật bậc thợ	Update skill level
+Cập nhật cảnh báo	Refresh alerts
+Danh mục bậc thợ	Skill level catalog
+Danh mục kỹ năng của công nhân	Worker skill catalog
+Danh mục kỹ năng và đơn giá	Skill catalog and rates
+Danh mục kỹ năng	Skill catalog
+Danh mục loại thiết bị	Equipment type catalog
+Danh sách kho, vị trí và số lượng thiết bị tại từng vị trí	Warehouses, locations and equipment quantity at each location
+Duyệt yêu cầu mở khóa	Review unlock request
+Dòng nhu cầu	Demand row
+Dự kiến	Planned
+Ghi chú hủy	Cancellation note
+Ghi chú tiến độ	Progress note
+Ghi chú tối đa 255 ký tự.	Note: at most 255 characters.
+Ghi chú	Note
+Ghi nhận giờ làm, số ca và đơn giá tại ngày làm việc	Record work hours, shifts and the rate on the work date
+Thanh toán lương -	Salary payment -
+Ghi nhận thanh toán lương	Record salary payment
+Ghi trên phiếu	Recorded on slip
+Giai đoạn thi công	Construction phase
+Giai đoạn	Phase
+Giá cũ	Old price
+Giá mới	New price
+Giá trị cũ	Old value
+Giá trị mới	New value
+Giới tính	Gender
+Giờ check-in (HH:mm)	Check-in time (HH:mm)
+Giờ check-out (HH:mm)	Check-out time (HH:mm)
+Giờ check-out phải sau giờ check-in	Check-out time must be after check-in time
+Giờ phải đúng định dạng HH:mm.	Time must be in HH:mm format.
+Gán / cập nhật bậc	Assign / update level
+Gán bậc thợ cho công nhân theo từng kỹ năng	Assign skill levels to workers per skill
+Gán kỹ năng cho công nhân	Assign skills to workers
+Gán kỹ năng công nhân	Assign worker skills
+Hiển thị	Showing
+Hiển thị 1-8 / 24 bản ghi	Showing 1-8 / 24 records
+Hiển thị: [10 bản ghi]	Show: [10 records]
+Hiển thị:	Show:
+Hiện mật khẩu	Show password
+Hoàn thành	Completed
+Hoạt động	Active
+Hành động	Action
+Hãy bấm "Xem báo cáo" trước khi xuất.	Click "View report" before exporting.
+Hãy chuyển trạng thái sang "Đã nghỉ việc".	Change the status to "Resigned" instead.
+Hãy chọn bản ghi chấm công.	Select an attendance record.
+Hãy chọn bậc thợ.	Select a skill level.
+Hãy chọn công nhân cần thanh toán.	Select the worker to pay.
+Hãy chọn công nhân và công trình.	Select a worker and a worksite.
+Hãy chọn công nhân.	Select a worker.
+Hãy chọn công trình.	Select a worksite.
+Hãy chọn dòng cần xóa.	Select the row to delete.
+Hãy chọn dòng nhu cầu cần bổ sung.	Select the demand row to supplement.
+Hãy chọn giới tính.	Select a gender.
+Hãy chọn kỳ lương.	Select a payroll period.
+Hãy chọn kỹ năng cho bậc thợ.	Select a skill for the level.
+Hãy chọn kỹ năng.	Select a skill.
+Hãy chọn loại công nhân.	Select a worker type.
+Hãy chọn loại thiết bị và vị trí kho.	Select an equipment type and a warehouse location.
+Hãy chọn loại thiết bị.	Select an equipment type.
+Hãy chọn một bậc thợ trong bảng.	Select a skill level in the table.
+Hãy chọn một công nhân trong bảng.	Select a worker in the table.
+Hãy chọn một công trình trong bảng.	Select a worksite in the table.
+Hãy chọn một dòng nhu cầu trong bảng.	Select a demand row in the table.
+Hãy chọn một dòng thiết bị trong bảng.	Select an equipment row in the table.
+Hãy chọn một dòng trong bảng.	Select a row in the table.
+Hãy chọn một kỹ năng trong bảng.	Select a skill in the table.
+Hãy chọn một loại thiết bị trong bảng.	Select an equipment type in the table.
+Hãy chọn một phân công trong bảng.	Select an assignment in the table.
+Hãy chọn một vị trí trong bảng.	Select a location in the table.
+Hãy chọn một đơn giá trong bảng.	Select a rate in the table.
+Hãy chọn vai trò.	Select a role.
+Hãy mở báo cáo trước khi xuất.	Open a report before exporting.
+Hãy nhập khoảng thời gian áp dụng.	Enter the effective period.
+Hãy nhập lý do hủy phân công.	Enter the reason for cancelling the assignment.
+Hãy tạo hoặc chọn kỳ lương.	Create or select a payroll period.
+Hãy tạo kỹ năng trước khi thêm bậc thợ.	Create a skill before adding skill levels.
+Hãy tạo kỹ năng và bậc thợ trước khi khai báo đơn giá.	Create skills and skill levels before declaring rates.
+Hình thức	Method
+Hôm nay	Today
+HỆ THỐNG	SYSTEM
+Hệ thống phải còn ít nhất một quản trị viên đang hoạt động.	The system must keep at least one active administrator.
+Hệ thống quản lý nhân công công trình - Đăng nhập	Construction Labor Management System - Login
+Hệ thống	System
+Họ tên (Chức vụ)	Full name (Position)
+Họ tên kèm chức vụ tối đa 100 ký tự (hiện	Name with position: at most 100 characters (currently
+Họ tên tối đa 100 ký tự.	Full name: at most 100 characters.
+Họ tên – Chức vụ	Full name – Position
+Họ tên	Full name
+Họ và tên	Full name
+Hỏng	Broken
+Hồ sơ công nhân	Worker profiles
+Hợp lệ	Valid
+Hủy phân công -	Cancel assignment -
+Hủy phân công	Cancel assignment
+Hủy	Cancel
+KHO THIẾT BỊ	EQUIPMENT WAREHOUSE
+Kho nhận	Receiving warehouse
+Kho thiết bị	Equipment warehouse
+Kho đã chọn chưa có vị trí lưu trữ.	The selected warehouse has no storage location.
+Khoản lương này đã thanh toán đủ.	This salary has been fully paid.
+Khoảng thời gian không hợp lệ.	Invalid time range.
+Khoảng thời gian kiểm tra không hợp lệ.	Invalid verification time range.
+Khoảng thời gian	Time range
+Khác	Other
+Khóa	Lock
+Không có bản ghi	No records
+Không ghi được file Excel:	Cannot write Excel file:
+Không ghi được file PDF:	Cannot write PDF file:
+Không hợp lệ	Invalid
+Không kết nối được CSDL	Cannot connect to the database
+Không kết nối được cơ sở dữ liệu:	Cannot connect to the database:
+Không mã hóa được mật khẩu:	Cannot hash the password:
+Không mở được màn hình "	Cannot open screen "
+Không thể chốt: còn	Cannot close: still
+Không thể khóa tài khoản đang đăng nhập.	Cannot lock the account currently logged in.
+Không thể tính lại: số đã thanh toán của	Cannot recalculate: the amount already paid for
+Không thể xóa dòng lương đã phát sinh thanh toán (mã công nhân ID	Cannot delete a payroll row that already has payments (worker ID
+Không thể xóa: đã có thiết bị thuộc loại này.	Cannot delete: equipment of this type already exists.
+Không thể đổi vai trò của tài khoản đang đăng nhập.	Cannot change the role of the account currently logged in.
+Không tìm thấy bản ghi chấm công.	Attendance record not found.
+Không tìm thấy bản ghi.	Record not found.
+Không tìm thấy công nhân.	Worker not found.
+Không tìm thấy công trình.	Worksite not found.
+Không tìm thấy kỳ lương.	Payroll period not found.
+Không tìm thấy yêu cầu mở khóa.	Unlock request not found.
+Không tạo được font PDF	Cannot create PDF font
+Không tạo được kỳ lương:	Cannot create payroll period:
+Không tạo được yêu cầu mở khóa:	Cannot create unlock request:
+Không xóa được vị trí còn thiết bị.	Cannot delete a location that still holds equipment.
+Không điều chỉnh được tồn kho:	Cannot adjust stock:
+Không	No
+Kiểm tra dữ liệu	Data validation
+Kiểm tra và báo cáo chấm công	Attendance verification and reporting
+Kết quả	Result
+Kết thúc dự kiến	Planned end
+Kết thúc phân công -	Finish assignment -
+Kết thúc phân công	Finish assignment
+Kết thúc thực tế	Actual end
+Kỳ lương & chốt sổ	Payroll periods & closing
+Kỳ lương bị trùng với kỳ đã tồn tại.	The payroll period overlaps an existing one.
+Kỳ lương của ngày này đã khóa, không thể sửa chấm công.	The payroll period of this day is locked; attendance cannot be edited.
+Kỳ lương không còn ở trạng thái đã chốt.	The payroll period is no longer closed.
+Kỳ lương đã khóa, không thể xóa chấm công.	The payroll period is locked; attendance cannot be deleted.
+Kỳ lương đã được chốt.	The payroll period has been closed.
+Kỳ lương	Payroll period
+Kỳ lương:	Payroll period:
+Kỳ đã chốt, cần yêu cầu mở khóa trước khi tính lại.	The period is closed; request an unlock before recalculating.
+Kỹ năng còn bậc thợ, hãy xóa các bậc thợ trước.	The skill still has levels; delete the levels first.
+Kỹ năng này chưa có bậc thợ, hãy khai báo bậc thợ trước.	This skill has no levels yet; declare levels first.
+Kỹ năng đang được dùng (gán cho công nhân / đơn giá / nhu cầu nhân lực), không thể xóa.	This skill is in use (assigned to workers / rates / manpower demand) and cannot be deleted.
+Kỹ năng	Skill
+Kỹ năng:	Skill:
+Loại báo cáo	Report type
+Loại ca	Shift type
+Loại công nhân	Worker type
+Loại thiết bị	Equipment type
+Loại	Type
+Làm mới	Refresh
+Lý do hủy	Cancellation reason
+Lý do mở khóa	Unlock reason
+Lý do tối đa 255 ký tự.	Reason: at most 255 characters.
+Lý do	Reason
+Lưu phiếu thất bại, dữ liệu đã được hoàn tác:	Saving the slip failed; data was rolled back:
+Lưu phiếu	Save slip
+Lưu tại	Stored at
+Lưu	Save
+Lượt chấm công 7 ngày gần nhất	Attendance entries, last 7 days
+Lượt đăng nhập thành công 7 ngày gần nhất	Successful logins, last 7 days
+Lập kế hoạch số lượng công nhân theo giai đoạn, kỹ năng và bậc thợ	Plan the number of workers by phase, skill and level
+Lập nhu cầu nhân lực	Manpower demand planning
+Lập phiếu nhập và cập nhật tồn kho	Create a receipt slip and update stock
+Lập phiếu nhập	Create receipt slip
+Lập phiếu thu hồi thiết bị từ công trình về kho	Create a return slip: equipment from worksite back to warehouse
+Lập phiếu thu hồi	Create return slip
+Lập phiếu xuất thiết bị từ kho đến công trình	Create an issue slip: equipment from warehouse to worksite
+Lập phiếu xuất	Create issue slip
+Lịch sử chấm công	Attendance history
+Lịch sử chỉnh sửa chấm công	Attendance edit history
+Lịch sử giao dịch kho	Warehouse transaction history
+Lịch sử giao dịch	Transaction history
+Lịch sử thanh toán	Payment history
+Lịch sử tiến độ -	Progress history -
+Lịch sử tiến độ	Progress history
+Lịch sử trạng thái -	Status history -
+Lịch sử trạng thái	Status history
+Lịch sử đơn giá	Rate history
+Lọc lịch sử thanh toán	Filter payment history
+Lọc theo công trình:	Filter by worksite:
+Lỗi cập nhật kỳ lương:	Error updating payroll period:
+Lỗi dữ liệu chấm công:	Attendance data error:
+Lỗi ghi dữ liệu:	Error writing data:
+Lỗi ghi nhận thanh toán:	Error recording payment:
+Lỗi giao dịch:	Transaction error:
+Lỗi không xác định:	Unknown error:
+Lỗi kiểm tra chấm công:	Attendance validation error:
+Lỗi kiểm tra mã loại:	Error checking type code:
+Lỗi kiểm tra vị trí:	Error checking location:
+Lỗi lưu chấm công:	Error saving attendance:
+Lỗi lưu nhu cầu nhân lực:	Error saving manpower demand:
+Lỗi lưu phân công:	Error saving assignment:
+Lỗi lưu phân quyền:	Error saving permissions:
+Lỗi lưu đơn giá:	Error saving rate:
+Lỗi phê duyệt mở khóa:	Error approving unlock:
+Lỗi sửa công trình:	Error editing worksite:
+Lỗi sửa nhu cầu nhân lực:	Error editing manpower demand:
+Lỗi sửa phân công:	Error editing assignment:
+Lỗi thêm công trình:	Error adding worksite:
+Lỗi thêm thiết bị:	Error adding equipment:
+Lỗi truy vấn lương:	Payroll query error:
+Lỗi truy vấn:	Query error:
+Lỗi tạo bảng lương dự kiến:	Error creating draft payroll:
+Lỗi xóa chấm công:	Error deleting attendance:
+Lỗi đếm thiết bị:	Error counting equipment:
+Lỗi đọc loại thiết bị:	Error reading equipment types:
+Lỗi đọc tồn kho:	Error reading stock:
+Lỗi	Error
+Mã CN	Worker ID
+Mã CT	Site ID
+Mã NV	Staff ID
+Mã TB	Equip. ID
+Mã YC	Req. ID
+Mã bản ghi	Record ID
+Mã bậc thợ đã tồn tại.	The skill level code already exists.
+Mã bậc thợ	Skill level code
+Mã bậc	Level code
+Mã công nhân đã tồn tại.	The worker code already exists.
+Mã công nhân	Worker code
+Mã công trình đã tồn tại.	The worksite code already exists.
+Mã công trình	Worksite code
+Mã kỹ năng đã tồn tại.	The skill code already exists.
+Mã kỹ năng	Skill code
+Mã loại thiết bị không được để trống.	Equipment type code must not be empty.
+Mã loại thiết bị đã tồn tại.	The equipment type code already exists.
+Mã loại tối đa 20 ký tự.	Type code: at most 20 characters.
+Mã loại	Type code
+Mã tham chiếu kèm tài khoản nhận tối đa 50 ký tự (hiện	Reference code with receiving account: at most 50 characters (currently
+Mã tham chiếu	Reference code
+Mã thiết bị không được để trống.	Equipment code must not be empty.
+Mã thiết bị đã tồn tại.	The equipment code already exists.
+Mã thiết bị	Equipment code
+Mã vị trí không được để trống.	Location code must not be empty.
+Mã vị trí	Location code
+Mã	Code
+Mô tả	Description
+Mật khẩu mới	New password
+Mật khẩu	Password
+Mở	Unlock
+NHÂN SỰ	HUMAN RESOURCES
+Nguồn nhập	Receipt source
+Nguồn	Source
+Ngày bắt đầu (phải là Thứ Năm)	Start date (must be a Thursday)
+Ngày bắt đầu dự kiến	Planned start date
+Ngày bắt đầu không được để trống.	Start date must not be empty.
+Ngày bắt đầu kỳ lương phải là Thứ Năm.	The payroll period must start on a Thursday.
+Ngày bắt đầu thực tế	Actual start date
+Ngày bắt đầu và kết thúc dự kiến không được để trống.	Planned start and end dates must not be empty.
+Ngày bắt đầu	Start date
+Ngày cập nhật tiến độ	Progress update date
+Ngày cập nhật	Update date
+Ngày hiệu lực không được để trống.	Effective date must not be empty.
+Ngày kết thúc dự kiến phải sau ngày bắt đầu dự kiến.	Planned end date must be after the planned start date.
+Ngày kết thúc dự kiến phải sau ngày bắt đầu.	Planned end date must be after the start date.
+Ngày kết thúc dự kiến	Planned end date
+Ngày kết thúc phải sau ngày bắt đầu.	End date must be after the start date.
+Ngày kết thúc phải từ ngày bắt đầu phân công trở đi.	End date must not be before the assignment start date.
+Ngày kết thúc thực tế phải sau ngày bắt đầu thực tế.	Actual end date must be after the actual start date.
+Ngày kết thúc thực tế	Actual end date
+Ngày kết thúc	End date
+Ngày làm việc không được để trống.	Work date must not be empty.
+Ngày làm việc	Work date
+Ngày nhập	Receipt date
+Ngày sinh không được để trống.	Date of birth must not be empty.
+Ngày sinh phải trước ngày hôm nay.	Date of birth must be before today.
+Ngày sinh	Date of birth
+Ngày thanh toán	Payment date
+Ngày thay đổi trạng thái	Status change date
+Ngày thay đổi	Change date
+Ngày thu hồi	Return date
+Ngày vào làm không được trước ngày sinh.	Hire date must not be before the date of birth.
+Ngày vào làm không được để trống.	Hire date must not be empty.
+Ngày vào làm	Hire date
+Ngày xuất	Issue date
+Ngày áp dụng	Effective date
+Ngày	Date
+Người lập phiếu	Slip creator
+Người lập	Created by
+Người nhận (chức vụ)	Recipient (position)
+Người nhận	Recipient
+Người phụ trách	Person in charge
+Người thay đổi	Changed by
+Người thêm	Added by
+Người thực hiện	Performed by
+Người trả	Payer
+Người yêu cầu	Requested by
+Nhu cầu nhân lực	Manpower demand
+Nháp	Draft
+Nhân sự	Human resources
+Nhóm thống kê	Statistics group
+Nhóm	Group
+Nhận lại tại	Received back at
+Nhập kho thiết bị	Equipment receipt
+Nhập kho	Goods receipt
+Nhập kho, xuất và thu hồi thiết bị	Receive, issue and return equipment
+Nhật ký hệ thống	System log
+Nhật ký thay đổi dữ liệu (	Data change log (
+Nhật ký đăng nhập (	Login log (
+Nhật ký	Logs
+Nữ	Female
+Phiếu chưa có dòng thiết bị nào.	The slip has no equipment lines.
+Phiếu nhập / xuất / thu hồi 7 ngày gần nhất	Receipt / issue / return slips, last 7 days
+Phân công công nhân đang làm việc vào công trình đang thi công	Assign active workers to worksites in progress
+Phân công công nhân	Worker assignment
+Phân công không còn hoạt động.	The assignment is no longer active.
+Phân quyền người dùng	User permissions
+Phê duyệt mở khóa	Approve unlock
+Phê duyệt	Approve
+Phóng to / Khôi phục	Maximize / Restore
+Phương thức thanh toán không hợp lệ.	Invalid payment method.
+Phương thức	Method
+Phải ghi nhận chức vụ người nhận.	The recipient's position must be recorded.
+Phải ghi nhận chức vụ người trả.	The payer's position must be recorded.
+Phải ghi nhận người nhận thiết bị.	The equipment recipient must be recorded.
+Phải ghi nhận người trả thiết bị.	The equipment returner must be recorded.
+Phải nhập lý do mở khóa.	Enter the unlock reason.
+QUẢN LÝ KHO	WAREHOUSE MANAGEMENT
+Quyền của quản trị viên cố định (chỉ quản lý tài khoản và phân quyền), không thể thay đổi.	Administrator permissions are fixed (account and permission management only) and cannot be changed.
+Quyền	Permissions
+Quản Lý Nhân Công Xây Dựng -	Construction Labor Management -
+Quản lý công trình	Worksite management
+Quản lý danh mục loại thiết bị trong kho	Manage the equipment type catalog
+Quản lý danh sách thiết bị trong kho	Manage the equipment list
+Quản lý hồ sơ công nhân	Worker profile management
+Quản lý hồ sơ, trạng thái làm việc và phân loại công nhân	Manage worker profiles, work status and worker types
+Quản lý thiết bị	Equipment management
+Quản lý thiết bị, vị trí và tồn kho	Equipment, location and stock management
+Quản lý thông tin công trình	Worksite information management
+Quản lý tài khoản và phân quyền	Account and permission management
+Quản lý tài khoản, khóa/mở khóa, phân quyền và theo dõi nhật ký	Manage accounts, lock/unlock, permissions and logs
+Quản lý vị trí kho	Warehouse location management
+Quản lý đơn giá của từng kỹ năng, bậc thợ theo loại ca	Manage rates per skill and level by shift type
+Quản trị viên chỉ có chức năng 1.1 (tài khoản và phân quyền), không thể thay đổi.	The administrator only has function 1.1 (accounts and permissions) and it cannot be changed.
+Quản trị viên	Administrator
+Quản lý nhân sự	HR manager
+Kế toán	Accountant
+Thủ kho	Storekeeper
+Toàn quyền hệ thống	Full system access
+Hồ sơ công nhân, kỹ năng, đơn giá	Worker profiles, skills, rates
+Công trình, nhu cầu, phân công	Worksites, demand, assignments
+Chấm công, tiền lương	Attendance, payroll
+Thiết bị, kho, phiếu nhập/xuất/thu hồi	Equipment, warehouses, receipt/issue/return slips
+Chính thức	Permanent
+Thời vụ	Seasonal
+Thợ hồ	Mason
+Thợ điện	Electrician
+Thợ hàn	Welder
+Máy khoan	Drill
+Giàn giáo	Scaffolding
+Kho Trung Tâm	Central Warehouse
+Kho	Warehouse
+Sai mật khẩu	Wrong password
+Sai tên đăng nhập hoặc mật khẩu.	Incorrect username or password.
+Sẵn sàng	Ready
+Số CCCD phải gồm đúng 12 chữ số.	National ID must have exactly 12 digits.
+Số CCCD đã tồn tại.	The national ID already exists.
+Số CCCD	National ID
+Số ca chỉ được tối đa 1 chữ số thập phân.	Shift count allows at most 1 decimal place.
+Số ca phải không âm và tổng số ca phải lớn hơn 0.	Shift counts must not be negative and the total must be greater than 0.
+Số ca thường	Regular shifts
+Số ca tăng ca	Overtime shifts
+Số công nhân cần liệt kê	Number of workers to list
+Số công nhân	Number of workers
+Số kho	Number of warehouses
+Số loại thiết bị	Number of equipment types
+Số lượng công nhân cần phải lớn hơn 0.	Required worker quantity must be greater than 0.
+Số lượng cần liệt kê từ 1 đến 100.	The number to list must be from 1 to 100.
+Số lượng cần	Quantity required
+Số lượng của	Quantity of
+Số lượng không được âm.	Quantity must not be negative.
+Số lượng kết quả	Number of results
+Số lượng nhập	Received quantity
+Số lượng thay đổi (+/-)	Quantity change (+/-)
+Số lượng thay đổi phải khác 0.	Quantity change must not be 0.
+Số lượng thu hồi vượt số đang ở công trình:	Returned quantity exceeds the quantity at the worksite:
+Số lượng thu hồi	Returned quantity
+Số lượng trong kho	Quantity in warehouse
+Số lượng tại công trình	Quantity at worksite
+Số lượng xuất	Issued quantity
+Số lượng	Quantity
+Số ngày công	Work days
+Số ngày	Days
+Số phiếu nhập	Receipt slips
+Số phiếu thu hồi	Return slips
+Số phiếu xuất	Issue slips
+Số phiếu	Slip no.
+Số thiết bị	Number of equipment
+Số tiền thanh toán phải lớn hơn 0.	Payment amount must be greater than 0.
+Số tiền thanh toán vượt số tiền còn phải trả:	Payment amount exceeds the balance due:
+Số tiền	Amount
+Số vị trí	Number of locations
+Số điện thoại tối đa 15 ký tự.	Phone number: at most 15 characters.
+Sửa bản ghi chấm công	Edit attendance record
+Sửa bậc thợ	Edit skill level
+Sửa công nhân	Edit worker
+Sửa công trình	Edit worksite
+Sửa kỹ năng	Edit skill
+Sửa loại thiết bị	Edit equipment type
+Sửa nhu cầu nhân lực	Edit manpower demand
+Sửa phân công	Edit assignment
+Sửa thiết bị	Edit equipment
+Sửa tài khoản	Edit account
+Sửa vị trí	Edit location
+Sửa	Edit
+TIỀN LƯƠNG	PAYROLL
+Thanh toán chuyển khoản cần mã tham chiếu giao dịch.	Bank transfer payments need a transaction reference code.
+Thanh toán chuyển khoản cần tài khoản nhận.	Bank transfer payments need a receiving account.
+Thanh toán lương	Salary payment
+Thanh toán một phần	Partially paid
+Thao tác	Actions
+Theo dõi chênh lệch giữa nhu cầu và số công nhân đã phân công	Track the gap between demand and assigned workers
+Theo dõi chưa thanh toán, thanh toán một phần và đã thanh toán	Track unpaid, partially paid and fully paid
+Theo dõi và cảnh báo nhân lực	Manpower monitoring and alerts
+Thiết bị còn tồn kho / đang ở công trình, không thể xóa.	The equipment is in stock / at a worksite and cannot be deleted.
+Thiết bị lưu trữ	Stored equipment
+Thiết bị theo chất lượng	Equipment by quality
+Thiết bị theo tình trạng sử dụng	Equipment by usage status
+Thiết bị trong kho	Equipment in warehouse
+Thiết bị tại công trình	Equipment at worksite
+Thiết bị đã phát sinh phiếu nhập/xuất/thu hồi, không thể xóa.	The equipment has receipt/issue/return slips and cannot be deleted.
+Thiết bị	Equipment
+Thiếu công nhân, công trình hoặc ngày bắt đầu.	Missing worker, worksite or start date.
+Thiếu giờ check-in	Missing check-in time
+Thiếu giờ check-out	Missing check-out time
+Thiếu hụt theo công trình	Shortage by worksite
+Thiếu số ca	Missing shift count
+Thiếu tồn kho:	Insufficient stock:
+Thiếu	Short
+Thoát	Exit
+Thu hồi thiết bị	Equipment return
+Thu hồi	Return
+Thu nhập cao nhất	Highest income
+Thu nhập thấp nhất	Lowest income
+Thu nhập	Income
+Thu nhỏ	Minimize
+Thành công	Success
+Tháng	Month
+Thêm / đổi đơn giá	Add / change rate
+Thêm bản ghi chấm công	Add attendance record
+Thêm bậc thợ	Add skill level
+Thêm chấm công	Add attendance
+Thêm công nhân	Add worker
+Thêm công trình	Add worksite
+Thêm kỹ năng	Add skill
+Thêm loại thiết bị	Add equipment type
+Thêm loại	Add type
+Thêm nhu cầu nhân lực	Add manpower demand
+Thêm nhu cầu	Add demand
+Thêm thiết bị vào phiếu	Add equipment to slip
+Thêm thiết bị	Add equipment
+Thêm tài khoản	Add account
+Thêm vị trí	Add location
+Thêm đơn giá	Add rate
+Thông báo	Notice
+Thông tin công trình, trạng thái và tiến độ thi công	Worksite information, status and construction progress
+Thông tin	Information
+Thống kê theo loại	Statistics by type
+Thống kê theo tình trạng	Statistics by condition
+Thống kê thiết bị theo loại	Equipment statistics by type
+Thống kê thiết bị theo tình trạng	Equipment statistics by condition
+Thống kê thiết bị trong kho và tại công trình	Equipment statistics in warehouse and at worksites
+Thống kê, phân tích nhân lực và xuất báo cáo	Workforce statistics, analysis and report export
+Thời gian áp dụng	Effective period
+Thời gian	Time
+Thời lượng làm việc vượt quá 16 giờ	Work duration exceeds 16 hours
+Thời điểm	Timestamp
+Thực tế (độ lệch)	Actual (variance)
+Tiêu chí thống kê:	Statistics criterion:
+Tiến độ (%)	Progress (%)
+Tiến độ TB (đang thi công)	Avg. progress (in progress)
+Tiến độ các công trình đang thi công	Progress of worksites in progress
+Tiến độ phải là số từ 0 đến 100.	Progress must be a number from 0 to 100.
+Tiến độ phải nằm trong khoảng 0 – 100.	Progress must be between 0 and 100.
+Tiến độ	Progress
+Tiền công tạm tính	Estimated wages
+Tiền công	Wages
+Tiền mặt	Cash
+Tiền thường	Regular pay
+Tiền tăng ca	Overtime pay
+Tra cứu phiếu nhập, xuất và thu hồi thiết bị	Look up receipt, issue and return slips
+Trạng thái sử dụng không hợp lệ.	Invalid usage status.
+Trạng thái thanh toán	Payment status
+Trạng thái	Status
+Trả một phần	Partially paid
+Tài khoản & phân quyền	Accounts & permissions
+Tài khoản bị khóa	Account locked
+Tài khoản nhận (chuyển khoản)	Receiving account (transfer)
+Tài khoản nhận	Receiving account
+Tài khoản này chưa được cấp chức năng nào để hiển thị số liệu.	This account has no function granted to display statistics.
+Tài khoản theo vai trò	Accounts by role
+Tài khoản đã bị khóa. Vui lòng liên hệ quản trị viên.	The account is locked. Please contact an administrator.
+Tài khoản:	Account:
+Tài khoản	Account
+Tên bậc thợ	Skill level name
+Tên bậc	Level name
+Tên công trình	Worksite name
+Tên kỹ năng	Skill name
+Tên loại thiết bị không được để trống.	Equipment type name must not be empty.
+Tên loại thiết bị tối đa 100 ký tự.	Equipment type name: at most 100 characters.
+Tên loại thiết bị	Equipment type name
+Tên thiết bị không được để trống.	Equipment name must not be empty.
+Tên thiết bị	Equipment name
+Tên đăng nhập gồm 3–50 ký tự: chữ không dấu, số, dấu chấm hoặc gạch dưới.	Username must be 3–50 characters: unaccented letters, digits, dots or underscores.
+Tên đăng nhập đã tồn tại.	The username already exists.
+Tên đăng nhập	Username
+Tìm kiếm theo mã hoặc tên thiết bị...	Search by equipment code or name...
+Tìm kiếm	Search
+Tìm mã/tên công nhân hoặc công trình...	Search worker code/name or worksite...
+Tìm theo giai đoạn, kỹ năng hoặc bậc thợ...	Search by phase, skill or level...
+Tìm theo mã hoặc tên công nhân...	Search by worker code or name...
+Tìm theo mã hoặc tên kỹ năng...	Search by skill code or name...
+Tìm theo mã hoặc tên loại thiết bị...	Search by equipment type code or name...
+Tìm theo mã vị trí hoặc tên thiết bị...	Search by location code or equipment name...
+Tìm theo mã, họ tên, số điện thoại hoặc CCCD...	Search by code, name, phone or national ID...
+Tìm theo mã, tên công nhân hoặc công trình...	Search by code, worker name or worksite...
+Tìm theo mã, tên công trình hoặc chủ đầu tư...	Search by code, worksite name or investor...
+Tìm theo số phiếu hoặc tên thiết bị...	Search by slip number or equipment name...
+Tìm theo tên đăng nhập hoặc họ tên...	Search by username or full name...
+Tình trạng sau thu hồi	Condition after return
+Tình trạng sau	Condition after
+Tình trạng thiết bị không hợp lệ.	Invalid equipment condition.
+Tình trạng	Condition
+Tích chọn các chức năng được phép; có hiệu lực từ lần đăng nhập tiếp theo.	Tick the allowed functions; takes effect from the next login.
+Tính bảng lương	Calculate payroll
+Tính theo đơn giá đã lưu tại ngày chấm công; kỳ lương từ Thứ Năm đến Thứ Tư	Calculated using the rates stored at the attendance date; payroll periods run Thursday to Wednesday
+Tại công trình	At worksite
+Tạm dừng	Paused
+Tạm nghỉ	On leave
+Tạm	Temp.
+Tạo kỳ lương	Create payroll period
+Tạo lúc	Created at
+Tạo phân công	Create assignment
+Tất cả công nhân	All workers
+Tất cả công trình	All worksites
+Tất cả kho	All warehouses
+Tất cả kỹ năng	All skills
+Tất cả loại phiếu	All slip types
+Tất cả loại thiết bị	All equipment types
+Tất cả loại	All types
+Tất cả trạng thái	All statuses
+Tất cả tình trạng	All conditions
+Tất cả vai trò	All roles
+Tốt	Good
+Tồn kho không đủ để trừ	Not enough stock to deduct
+Tồn kho	Stock
+Tồn tại	Exists at
+Tổng chi phí	Total cost
+Tổng công nhân	Total workers
+Tổng công trình	Total worksites
+Tổng cộng	Total
+Tổng hợp chấm công theo tuần	Weekly attendance summary
+Tổng hợp tiền công theo kỳ	Period wage summary
+Tổng hợp tồn kho hiện tại	Current stock summary
+Tổng hợp và chốt bảng lương	Summarize and close payroll
+Tổng phải trả	Total payable
+Tổng quan hệ thống –	System overview –
+Tổng số ca phải lớn hơn 0	Total shifts must be greater than 0
+Tổng số lượng	Total quantity
+Tổng thiết bị	Total equipment
+Tổng tiền công 6 kỳ gần nhất (VNĐ)	Total wages, last 6 periods (VND)
+Tổng tiền công đã tổng hợp	Total wages summarized
+Tổng tiền công	Total wages
+Tổng tài khoản	Total accounts
+Tổng	Total
+Từ chối	Reject
+Từ ngày	From date
+Từ	From
+Vai trò	Role
+Vui lòng nhập họ tên.	Please enter the full name.
+Vui lòng nhập mật khẩu.	Please enter the password.
+Vui lòng nhập tên đăng nhập.	Please enter the username.
+Vui lòng đăng nhập để tiếp tục	Please log in to continue
+Vị trí / tồn hiện tại	Location / current stock
+Vị trí trống	Empty locations
+Vị trí đang dùng	Locations in use
+Vị trí	Location
+Xem báo cáo	View report
+Xuất Excel	Export Excel
+Xuất PDF	Export PDF
+Xuất thiết bị	Equipment issue
+Xuất từ	Issued from
+Xuất	Export
+Xác nhận	Confirm
+Xóa bậc thợ	Delete skill level
+Xóa chấm công	Delete attendance
+Xóa công nhân	Delete worker
+Xóa công trình	Delete worksite
+Xóa dòng	Delete row
+Xóa kỹ năng	Delete skill
+Xóa loại thiết bị	Delete equipment type
+Xóa nhu cầu	Delete demand
+Xóa thiết bị	Delete equipment
+Xóa vị trí	Delete location
+Xóa	Delete
+Xử lý yêu cầu #	Process request #
+Yêu cầu mở khóa kỳ lương	Payroll unlock request
+Yêu cầu mở khóa	Unlock request
+Yêu cầu này đã được xử lý.	This request has already been processed.
+Yêu cầu đã được xử lý.	The request has already been processed.
+Kiểm tra MySQL, đã chạy database/construction_labor.sql chưa, và biến môi trường DB_URL / DB_USER / DB_PASS.	Check MySQL, whether database/construction_labor.sql has been run, and the DB_URL / DB_USER / DB_PASS environment variables.
+chấm công	attendance
+khóa	lock
+kế hoạch nhân lực	manpower plan
+mở khóa	unlock
+phiếu thu hồi thiết bị	equipment return slip
+phiếu xuất thiết bị	equipment issue slip
+phân công	assignment
+sửa	edit
+thiết bị đang tại công trình	equipment currently at worksite
+xóa	delete
+Áp dụng từ	Effective from
+Đang hoạt động	Active
+Đang làm việc	Working
+Đang phân công	Assigned
+Đang sử dụng	In use
+Đang thi công	In progress
+Đang thiếu nhân lực	Understaffed
+Đang ở CT	At site
+Đang ở công trình:	Currently at worksite:
+Đang	Currently
+Điều chỉnh tồn kho	Adjust stock
+Điện thoại	Phone
+Đã chốt / khóa	Closed / locked
+Đã chốt và khóa kỳ lương.	The payroll period has been closed and locked.
+Đã thanh toán lương.	Salary paid.
+Đã gửi yêu cầu mở khóa, đang chờ phê duyệt.	Unlock request sent; awaiting approval.
+Đã hủy	Cancelled
+Đã kiểm tra	Checked
+Đã kết thúc	Finished
+Đã lưu phiếu	Slip saved
+Đã lưu phân quyền. Quyền mới có hiệu lực từ lần đăng nhập tiếp theo của "	Permissions saved. The new permissions take effect from the next login of "
+Đã mở khóa kỳ lương.	The payroll period has been unlocked.
+Đã mở khóa	Unlocked
+Đã nghỉ việc	Resigned
+Đã nghỉ	Resigned
+Đã phân công	Assigned
+Đã thanh toán	Paid
+Đã trả đủ	Fully paid
+Đã trả	Paid
+Đã tạo kỳ lương:	Payroll period created:
+Đã tạo/cập nhật bảng lương dự kiến.	Draft payroll created/updated.
+Đã từ chối yêu cầu.	The request has been rejected.
+Đã xuất báo cáo:	Report exported:
+Đã xuất danh sách:	List exported:
+Đã xuất:	Exported:
+Đóng	Close
+Đăng nhập	Log in
+Đăng xuất	Log out
+Đơn giá (VNĐ)	Rate (VND)
+Đơn giá không được xóa để giữ lịch sử. Hãy đổi sang mức giá mới.	Rates cannot be deleted so history is kept. Change to a new rate instead.
+Đơn giá phải là số (ví dụ 350000).	The rate must be a number (e.g. 350000).
+Đơn giá phải lớn hơn 0.	The rate must be greater than 0.
+Đơn giá quá lớn.	The rate is too large.
+Đơn giá theo ca	Shift rates
+Đơn giá thường	Regular rate
+Đơn giá tăng ca	Overtime rate
+Đặt theo vai trò mặc định	Reset to role defaults
+Đến ngày phải sau hoặc bằng Từ ngày.	To date must be on or after From date.
+Đến ngày	To date
+Đề xuất công nhân -	Suggested workers -
+Đề xuất công nhân phù hợp	Suggested matching workers
+Để trống nếu không đổi	Leave blank to keep unchanged
+Địa chỉ tối đa 255 ký tự.	Address: at most 255 characters.
+Địa chỉ	Address
+Đồng ý	OK
+Đổi đơn giá	Change rate
+Đủ nhân lực	Fully staffed
+Nam	Male
+Báo cáo nhập kho	Goods receipt report
+Quản lý nhân công	Labor management
+Dashboard	Dashboard
+VNĐ	VND
+Kho A	Warehouse A
+Kho B	Warehouse B
+T2	Mon
+T3	Tue
+T4	Wed
+T5	Thu
+T6	Fri
+T7	Sat
+CN	Sun
+Cài đặt	Settings
+Thông tin cá nhân	Personal information
+Ngôn ngữ	Language
+Ngôn ngữ / Language	Language
+Chức năng được phép	Permitted functions
+Xem chi tiết	View details
+Ngân hàng	Bank
+Số tài khoản	Account number
+Chủ tài khoản	Account holder
+Nhận lương	Salary receipt
+Hình thức nhận lương	Salary receipt method
+Lãnh lương tay	Cash in hand
+Thông tin nhận lương	Salary receiving info
+Tiền mặt (lãnh tay)	Cash (in hand)
+Từ ngày thanh toán	Payment date from
+Đến ngày thanh toán	Payment date to
+Lãnh lương tay (chưa có tài khoản)	Cash in hand (no account yet)
+Chuyển khoản vào tài khoản	Bank transfer to account
+Kỳ lương này chưa có khoản thanh toán nào trong khoảng ngày đã chọn.	No payments in this period within the selected dates.
+Trả lương theo ngày (công nhân thời vụ)	Pay daily wages (seasonal workers)
+Trả lương theo ngày	Pay daily wages
+Trả lương ngày - 	Daily wage payment - 
+Ngày công:	Work date:
+Xem	View
+Tiền công ngày	Daily wage
+Chấm công chưa hợp lệ	Attendance not valid
+Đã trả đủ	Fully paid
+Chỉ công nhân loại "Thời vụ" – trả theo tiền công của ngày	Seasonal workers only – paid by the day's wage
+Ngày này không có công nhân thời vụ nào được chấm công.	No seasonal workers have attendance on this date.
+Đã thanh toán lương ngày.	Daily wage paid.
+Theo dõi chưa thanh toán, thanh toán một phần và đã thanh toán; công nhân thời vụ có thể trả hằng ngày	Track unpaid, partially paid and paid wages; seasonal workers can be paid daily
+Chưa chấm công ngày này	No attendance on this date
+Công nhân chưa được chấm công ngày này, chưa có tiền công để thanh toán.	No attendance for this worker on this date, so there is no wage to pay.
+Chưa có công nhân thời vụ nào trong danh sách. Hãy kiểm tra loại công nhân là "Thời vụ" ở Hồ sơ công nhân.	No seasonal workers in the list. Check that the worker type is "Seasonal" in Worker profiles.
+Hình thức trả lương	Payment method
+Chờ phân công	Awaiting assignment
+Tất cả bậc thợ	All levels
+Thiếu hụt theo kỹ năng	Shortage by skill
+BÁO CÁO THIẾU HỤT NHÂN LỰC THEO KỸ NĂNG	MANPOWER SHORTAGE REPORT BY SKILL
+Số dòng nhu cầu	Demand lines
+Số công trình thiếu	Worksites short
+Tổng cần	Total needed
+Phạm vi báo cáo	Report scope
+Theo kỳ lương đang chọn	By selected payroll period
+Theo tháng	By month
+Kỳ lương đang chọn	Selected payroll period
+(chưa chọn kỳ lương)	(no payroll period selected)
+Tháng (khi chọn theo tháng)	Month (when by month)
+Năm (khi chọn theo tháng)	Year (when by month)
+Công trình (báo cáo chi phí)	Worksite (cost report)
+Duyệt yêu cầu mở khóa bảng lương	Approve payroll unlock requests
+Người duyệt phải khác người yêu cầu mở khóa. Hãy nhờ người có quyền duyệt khác xử lý.	The approver must be different from the requester. Ask another authorized approver to handle it.
+Bạn không có quyền duyệt yêu cầu mở khóa bảng lương (chức năng 2.10).	You do not have permission to approve payroll unlock requests (function 2.10).
+Sao lưu & phục hồi dữ liệu	Backup & restore data
+Sao lưu ngay	Back up now
+Phục hồi từ tệp...	Restore from file...
+Đã sao lưu:	Backup created:
+Đã phục hồi. Bản trước khi phục hồi:	Restored. Pre-restore backup:
+Phục hồi sẽ ghi đè dữ liệu hiện tại bằng tệp đã chọn. Hệ thống tự sao lưu bản hiện tại trước. Tiếp tục?	Restore will overwrite current data with the selected file. The current data is backed up first. Continue?
+Tệp sao lưu (*.sql)	Backup files (*.sql)
+Không tìm thấy tệp sao lưu.	Backup file not found.
+Tệp sao lưu rỗng, hãy kiểm tra cấu hình CSDL.	Backup file is empty; check the database settings.
+Thao tác bị ngắt.	Operation interrupted.
+Không chạy được	Cannot run
+. Hãy cài MySQL client và thêm vào PATH (hoặc đặt biến MYSQL_BIN trỏ tới thư mục bin của MySQL).	. Install the MySQL client and add it to PATH (or set MYSQL_BIN to MySQL's bin folder).
+. Hãy cài MySQL client và thêm vào PATH (hoặc đặt biến MYSQL_BIN).	. Install the MySQL client and add it to PATH (or set MYSQL_BIN).
+DB_URL không hợp lệ:	Invalid DB_URL:
+Lỗi mysqldump:	mysqldump error:
+Lỗi mysql:	mysql error:
+Không sao lưu được trước khi chốt lương (	Could not back up before closing payroll (
+). Vẫn chốt lương?	). Close payroll anyway?
+CHẤM CÔNG & LƯƠNG	ATTENDANCE & PAYROLL
+Trong kho	In warehouse
+# --- Dữ liệu mẫu trong CSDL (tên công nhân/tài khoản giữ nguyên) ---
+Quản lý tài khoản, phân quyền, nhật ký hệ thống	Manage accounts, permissions and system logs
+Công trình, nhu cầu nhân lực, phân công, cảnh báo thiếu/đủ nhân lực	Worksites, manpower demand, assignments, shortage/sufficiency alerts
+Chấm công, tổng hợp tiền công, chốt lương, thanh toán lương	Attendance, wage summary, payroll closing, salary payment
+Loại thiết bị, thiết bị, vị trí, nhập kho, xuất và thu hồi, báo cáo kho	Equipment types, equipment, locations, stock in, issue and return, warehouse reports
+Công nhân hợp đồng chính thức	Permanent contract worker
+Công nhân thời vụ	Seasonal worker
+Xây, tô, hoàn thiện	Bricklaying, plastering, finishing
+Thi công điện	Electrical installation
+Gia công, hàn kết cấu	Fabrication, structural welding
+Máy khoan, máy đục	Drills, chisel machines
+Giàn giáo, cột chống	Scaffolding, shoring posts
+Kệ A1, ô 01	Shelf A1, slot 01
+Kệ A1, ô 02	Shelf A1, slot 02
+Kệ B1, ô 01	Shelf B1, slot 01
+Nhà Hàng ABC	ABC Restaurant
+12 Nguyễn Huệ, Q.1, TP.HCM	12 Nguyen Hue, District 1, HCMC
+Công ty ABC	ABC Company
+Khách Sạn Sao Mai	Sao Mai Hotel
+88 Trần Phú, TP. Nha Trang	88 Tran Phu, Nha Trang City
+Tập đoàn Sao Mai	Sao Mai Group
+Chung Cư Phú Gia	Phu Gia Apartments
+5 Lê Lợi, TP. Biên Hòa	5 Le Loi, Bien Hoa City
+Phú Gia Land	Phu Gia Land
+Trường Học Hòa Bình	Hoa Binh School
+30 Hòa Bình, Q. Tân Phú, TP.HCM	30 Hoa Binh, Tan Phu District, HCMC
+Sở Giáo dục	Department of Education
+TP. Hồ Chí Minh	Ho Chi Minh City
+Hoàn thành móng	Foundation completed
+Xây phần thô tầng 1	Rough construction of floor 1
+Hoàn thành phần móng	Foundation work completed
+Hoàn thiện tầng 3	Finishing of floor 3
+Bàn giao công trình	Worksite handover
+Phần thô	Rough construction
+Hoàn thiện	Finishing
+Giờ ra sớm hơn quy định	Check-out earlier than scheduled
+Máy đục bê tông Hitachi	Hitachi concrete chisel
+Cột chống thép điều chỉnh	Adjustable steel shoring post
+Công ty Thiết bị Xây dựng Miền Nam	Southern Construction Equipment Company
+công nhân do chính mình thêm.	workers you added yourself.
+kỹ năng do chính mình thêm.	skills you added yourself.
+bậc thợ do chính mình thêm.	skill levels you added yourself.
+kỹ năng của công nhân do chính mình thêm.	worker skills you added yourself.
+đơn giá do chính mình thêm.	rates you added yourself.
+nhu cầu nhân lực do chính mình thêm.	manpower demands you added yourself.
+bản ghi chấm công do chính mình thêm.	attendance records you added yourself.
+loại thiết bị do chính mình thêm.	equipment types you added yourself.
+thiết bị do chính mình thêm.	equipment you added yourself.
+vị trí kho do chính mình thêm.	storage locations you added yourself.
+phân công do chính mình tạo.	assignments you created yourself.
+Bạn chỉ được kết thúc	You can only finish
+Bạn chỉ được hủy	You can only cancel
