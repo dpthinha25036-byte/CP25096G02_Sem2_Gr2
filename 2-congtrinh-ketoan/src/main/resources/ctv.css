@@ -1,0 +1,83 @@
+/* Kiểu chung theo Form 04 (màu tím, bo góc). Áp cho mọi Scene qua Ui.style(). */
+.root { -fx-font-size: 13px; -fx-text-fill: #292757; }
+
+.ctv-input, .ctv-input .text-field, .ctv-input .text-input { -fx-text-fill: #292757; }
+.text-field.ctv-input, .password-field.ctv-input, .date-picker.ctv-input > .text-field {
+    -fx-background-color: #FBFAFE; -fx-border-color: #D8D7F5; -fx-border-radius: 10; -fx-background-radius: 10;
+    -fx-padding: 7 8 7 8; -fx-prompt-text-fill: #7A79A8;
+}
+.text-field.ctv-input:focused, .password-field.ctv-input:focused, .date-picker.ctv-input > .text-field:focused { -fx-border-color: #5C23E2; }
+.combo-box.ctv-input, .date-picker.ctv-input, .spinner {
+    -fx-background-color: #FBFAFE; -fx-border-color: #D8D7F5; -fx-border-radius: 10; -fx-background-radius: 10;
+}
+.combo-box.ctv-input:focused, .date-picker.ctv-input:focused { -fx-border-color: #5C23E2; }
+.date-picker.ctv-input > .text-field { -fx-border-width: 0; }
+/* Nút chọn lịch: nền trong suốt, biểu tượng tím, hover tím nhạt bo tròn (thay khối xám vuông mặc định) */
+.date-picker.ctv-input > .arrow-button {
+    -fx-background-color: transparent; -fx-background-radius: 8; -fx-background-insets: 5 6 5 4; -fx-padding: 0 14 0 10; -fx-cursor: hand;
+}
+.date-picker.ctv-input > .arrow-button:hover { -fx-background-color: #EDE7FD; }
+.date-picker.ctv-input > .arrow-button > .arrow, .date-picker.ctv-input > .arrow-button > .date-picker-icon { -fx-background-color: #5C23E2; }
+
+/* ComboBox: ô gõ tay (editable) trong suốt, nút mũi tên tím, không khối xám */
+.combo-box.ctv-input > .text-input { -fx-background-color: transparent; -fx-background-insets: 0; -fx-border-width: 0; -fx-padding: 0 0 0 12; -fx-text-fill: #292757; }
+.combo-box.ctv-input > .arrow-button {
+    -fx-background-color: transparent; -fx-background-radius: 8; -fx-background-insets: 5 6 5 4; -fx-padding: 0 12 0 10; -fx-cursor: hand;
+}
+.combo-box.ctv-input > .arrow-button:hover { -fx-background-color: #EDE7FD; }
+.combo-box.ctv-input > .arrow-button > .arrow { -fx-background-color: #5C23E2; }
+
+/* Danh sách thả xuống: nền trắng bo góc, viền nhạt, dòng chọn/hover tím nhạt (thay xanh lơ mặc định) */
+.combo-box-popup > .list-view {
+    -fx-background-color: white; -fx-background-radius: 10; -fx-background-insets: 0;
+    -fx-border-color: #D8D7F5; -fx-border-radius: 10; -fx-padding: 4;
+    -fx-effect: dropshadow(gaussian, rgba(41,39,87,0.18), 14, 0.1, 0, 4);
+}
+.combo-box-popup > .list-view > .virtual-flow > .clipped-container > .sheet > .list-cell {
+    -fx-background-color: transparent; -fx-background-radius: 8; -fx-text-fill: #292757; -fx-padding: 8 12 8 12; -fx-cursor: hand;
+}
+.combo-box-popup > .list-view .list-cell:filled:hover { -fx-background-color: #F1ECFD; -fx-text-fill: #292757; }
+.combo-box-popup > .list-view .list-cell:filled:selected, .combo-box-popup > .list-view .list-cell:filled:selected:hover {
+    -fx-background-color: #E2D9FD; -fx-text-fill: #3B1A99; -fx-font-weight: bold;
+}
+.spinner > .text-field { -fx-background-color: transparent; -fx-background-radius: 10; }
+
+.ctv-btn:hover { -fx-opacity: 0.88; }
+.ctv-btn:pressed { -fx-opacity: 0.75; }
+.ctv-btn:disabled { -fx-opacity: 0.45; }
+
+/* Bảng: đầu bảng tím nhạt, dòng chọn #E2D9FD, đường kẻ ngang nhạt, không đường dọc */
+.ctv-table { -fx-background-color: white; -fx-background-insets: 0; -fx-padding: 0; -fx-table-cell-border-color: transparent; }
+.ctv-table .column-header-background { -fx-background-color: #CCC2EA; -fx-pref-height: 38; }
+.ctv-table .column-header, .ctv-table .filler { -fx-background-color: #CCC2EA; -fx-border-color: transparent; -fx-size: 38; }
+.ctv-table .column-header .label { -fx-text-fill: #292757; -fx-font-weight: bold; -fx-alignment: center-left; -fx-padding: 0 8 0 8; }
+.ctv-table .table-row-cell { -fx-background-color: white; -fx-border-color: transparent transparent #EAE8FA transparent; -fx-table-cell-border-color: transparent; }
+.ctv-table .table-row-cell:selected { -fx-background-color: #E2D9FD; }
+.ctv-table .table-row-cell:selected .table-cell { -fx-text-fill: #292757; }
+.ctv-table .table-cell { -fx-text-fill: #292757; -fx-padding: 0 8 0 8; -fx-alignment: center-left; }
+
+.scroll-bar:vertical, .scroll-bar:horizontal { -fx-background-color: transparent; -fx-pref-width: 10; -fx-pref-height: 10; }
+.scroll-bar .thumb { -fx-background-color: #CCC2EA; -fx-background-radius: 999; }
+.scroll-bar .increment-button, .scroll-bar .decrement-button { -fx-padding: 0; -fx-pref-height: 0; -fx-pref-width: 0; }
+.scroll-pane { -fx-background-color: transparent; -fx-padding: 0; }
+.scroll-pane > .viewport { -fx-background-color: transparent; }
+
+.nav-btn { -fx-background-color: transparent; -fx-background-radius: 14; -fx-text-fill: white; -fx-alignment: center-left; -fx-padding: 9 14 9 14; }
+.nav-btn:hover { -fx-background-color: rgba(158,101,243,0.35); }
+.nav-btn.active { -fx-background-color: #9E65F3; }
+
+.dialog-pane { -fx-background-color: white; }
+
+/* Ô chọn (ví dụ "Hiện mật khẩu"): ô vuông bo nhẹ, viền xám, nền trắng; khi chọn nền tím chủ đạo + dấu tích trắng */
+.check-box { -fx-text-fill: #292757; -fx-label-padding: 0 0 0 8; -fx-cursor: hand; }
+.check-box > .box {
+    -fx-background-color: white; -fx-background-radius: 3; -fx-background-insets: 0;
+    -fx-border-color: #8E8CA8; -fx-border-width: 1.5; -fx-border-radius: 3; -fx-border-insets: 0;
+    -fx-padding: 4;
+}
+.check-box:hover > .box { -fx-border-color: #5C23E2; }
+.check-box:focused > .box { -fx-border-color: #5C23E2; }
+.check-box > .box > .mark { -fx-background-color: transparent; -fx-shape: "M0 5 L2.5 8 L9 0 L8 -1 L2.5 6 L1 4 Z"; -fx-padding: 4 5 3 5; }
+.check-box:selected > .box { -fx-background-color: #5C23E2; -fx-border-color: #5C23E2; }
+.check-box:selected > .box > .mark { -fx-background-color: white; }
+.check-box:indeterminate > .box > .mark { -fx-background-color: transparent; }
